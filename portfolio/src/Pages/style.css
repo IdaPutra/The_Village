@@ -1,0 +1,87 @@
+@import url(https://fonts.googleapis.com/css?family=Lato:700);
+@import url('http://fonts.cdnfonts.com/css/pencil-2');
+p{
+    
+    font-size:15px;
+   
+}
+
+#plan{
+    font-family: 'Pencil', sans-serif;
+    font-size:35px;
+    text-decoration: underline;
+}
+
+
+.Main{
+    background: url('https://thevillage-bali.com/wp-content/uploads/2017/11/slider-03.jpg') no-repeat center center ; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+
+  min-height: 100vh;
+}
+
+#Navbar{
+ 
+    color:transparent !important;
+  
+}
+
+.navbar-inner {
+    background:transparent !important; 
+}
+
+.container2{
+    width:"100%";
+}
+
+
+
+.bar1, .bar2, .bar3 {
+    width: 35px;
+    height: 2px;
+    background-color: white;
+    margin: 6px 0;
+    transition: 0.4s;
+ margin-left:70%
+  }
+  
+  .Reservation {
+      margin-left: 80%;
+      border-style: solid;
+      border-color: red;
+      border-width: 1px;
+  }
+
+  .About {
+    width: 80%;
+  min-height: 90vh;
+  background-color: rgb(237, 237, 237);  
+  margin: auto;
+  }
+
+  .footer_main p{
+      color: white;
+      text-align: center;
+  }
+
+  .About_text p h1 {
+color: red;
+  }
+
+  .allday {
+      background-image: url("https://thevillage-bali.com/wp-content/uploads/2020/07/Allday-01-1-300x420.jpg");
+  }
+
+  .dessert {
+    background-image: url("https://thevillage-bali.com/wp-content/uploads/2020/07/dessert-01-1-300x420.jpg");
+}
+
+.wine {
+    background-image: url("https://thevillage-bali.com/wp-content/uploads/2019/11/menu-wine-the-village-01-300x420.jpg");
+}
+
+.drink {
+    background-image: url("https://thevillage-bali.com/wp-content/uploads/2019/10/oke-1-1-764x1024-300x420.jpg");
+}
