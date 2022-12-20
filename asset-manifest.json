@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/The_Village/static/css/main.347739a9.css",
+    "main.js": "/The_Village/static/js/main.2dd8bfec.js",
+    "static/media/good.mp4": "/The_Village/static/media/good.90348e435f7e70520a4d.mp4",
+    "static/media/Menu_2022-03.jpg": "/The_Village/static/media/Menu_2022-03.6c8a6ead25f5349d40ac.jpg",
+    "static/media/Menu_2022-02.jpg": "/The_Village/static/media/Menu_2022-02.05475fa5501a2fbef0b1.jpg",
+    "static/media/contact.png": "/The_Village/static/media/contact.114916241613256c0e5c.png",
+    "static/media/Menu_2022-01.jpg": "/The_Village/static/media/Menu_2022-01.2d9f7aae02d2dd86a756.jpg",
+    "static/media/food.jpg": "/The_Village/static/media/food.3a6cea81bab82c5d41b2.jpg",
+    "static/media/drinks.jpg": "/The_Village/static/media/drinks.27b6e6428d193c191bd8.jpg",
+    "static/media/the_village.png": "/The_Village/static/media/the_village.ab0577717ee1678f567d.png",
+    "index.html": "/The_Village/index.html",
+    "main.347739a9.css.map": "/The_Village/static/css/main.347739a9.css.map",
+    "main.2dd8bfec.js.map": "/The_Village/static/js/main.2dd8bfec.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.347739a9.css",
+    "static/js/main.2dd8bfec.js"
+  ]
+}
