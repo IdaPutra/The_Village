@@ -3,30 +3,131 @@
 p{
     
     font-size:15px;
+    color:white;
+
    
 }
+h1, h2{
+    font-family: "Italiana";
+    color: white;
+}
 
+.Experience{
+    width: 80%;
+  margin: 0 auto;
+  background-color: #0e1e1e;
+}
+
+.Menu{
+    width: 60%;
+  margin: 0 auto;
+  margin-top: 5%;
+}
+
+.react-pdf__Page__annotations {
+    height: 10% !important;
+}
+
+.react-pdf__Page{
+   margin-right: 10%;
+}
+.contact{
+    width: 60%;
+    margin: 0 auto;
+    margin-top: 5%;
+}
+
+#image_contact{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    margin-top: 4%;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
+
+
+body {
+    background-color: #060D0D ;
+}
 #plan{
     font-family: 'Pencil', sans-serif;
     font-size:35px;
     text-decoration: underline;
 }
 
+.each-slide-effect > img {
+    width: 100%;
+  height: 500px;
+    border-radius: 5%;
+  }
+
+  
+.indicator {
+    cursor: pointer;
+    padding: 10px;
+    text-align: center;
+    margin: 0;
+  }
+  
+  .indicator.active {
+    color: #fff;
+
+  }
 
 .Main{
-    background: url('https://thevillage-bali.com/wp-content/uploads/2017/11/slider-03.jpg') no-repeat center center ; 
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
-    -o-background-size: cover;
 
-  min-height: 100vh;
+  height: 100vh;
+  width: 100%;
 }
 
-#Navbar{
- 
-    color:transparent !important;
-  
+video {
+    width:100%;
+    height: 100%;
+    object-fit: cover;
+    filter: brightness(60%);
+
 }
+
+.content {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    top: 0;
+    position: sticky;
+}
+
+nav .navbar-nav li a{
+    color: white !important;
+    font-size:20px;
+    font-family: "Italiana" !important;
+
+    }
+
+nav .navbar-brand {
+     color: white !important;
+    font-size: 20px;
+    margin-left: 2%;
+    font-family: "Italiana" !important;
+}
+
+#logo {
+    height: 50%;
+}
+
+
+.navbar-nav > li{
+    padding-left:10px;
+    padding-right:10px;
+  }
+
+
 
 .navbar-inner {
     background:transparent !important; 
@@ -57,7 +158,6 @@ p{
   .About {
     width: 80%;
   min-height: 90vh;
-  background-color: rgb(237, 237, 237);  
   margin: auto;
   }
 
